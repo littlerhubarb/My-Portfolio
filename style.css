@@ -82,6 +82,15 @@ p {
     font-size: 22px;
 }
 
+.github {
+    text-align: center;
+    font-size: 10px;
+}
+
+    .github a {
+        font-size: 10px;
+    }
+
 @media (max-width: 576px) {
     .photo {display: none;
     }
